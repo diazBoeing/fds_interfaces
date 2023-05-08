@@ -1,0 +1,10 @@
+#goal definition
+int32 sm_action
+string data
+---
+#result definition
+bool success
+string result_msg
+---
+#feedback
+string feedback_msg

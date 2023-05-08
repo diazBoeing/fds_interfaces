@@ -1,0 +1,13 @@
+# Goal
+int32 command
+string data
+
+---
+# Result
+
+bool success
+string msg
+
+---
+# Feedback is empty (primary concern is that task completes)
+int8 pct_complete

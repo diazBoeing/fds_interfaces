@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<package format="2">
+  <name>fds_interfaces</name>
+  <version>1.0.0</version>
+  <description>The fds_interfaces package</description>
+
+  <maintainer email="michelle.crivella@boeing.com">Michelle Crivella</maintainer>
+  <author>Michelle Crivella</author>
+  <license>BOEING PROPRIETARY, CONFIDENTAL, AND/OR TRADE SECRET, COPYRIGHT 2021/ THE BOEING COMPANY,  UNPUBLISHED WORK.  ALL RIGHTS RESERVED.</license>
+
+  <buildtool_depend>catkin</buildtool_depend>
+
+  <depend>actionlib</depend>
+  <depend>actionlib_msgs</depend>
+  <depend>genmsg</depend>
+  <depend>geometry_msgs</depend>
+  <depend>message_generation</depend>
+  <depend>message_runtime</depend>
+  <depend>sensor_msgs</depend>
+  <depend>std_msgs</depend>
+  <depend>trajectory_msgs</depend>
+  <depend>visualization_msgs</depend>
+  <depend>kdl_conversions</depend>
+  <depend>pcl_ros</depend>
+  <depend>a5_sanding_process_planning</depend>
+  <depend>mc_utils</depend>
+  <!--depend>rapidxml</depend-->
+  
+</package>
